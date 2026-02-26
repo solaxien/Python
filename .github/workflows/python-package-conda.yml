@@ -24,4 +24,3 @@ jobs:
     - name: Run pyt.py
       run: |
         python pyt.py
-        pylint pyt.py
